@@ -8,9 +8,9 @@
  
 ## Current assigned branches, for now...
 #
-# Kahlenberger/tethys  ... reserved for : "Workstation-i386"
-# Kahlenberger/erriapo ... reserved for : "Kali-i386"
-# Kahlenberger/kali    ... reserved for : "Kali-arm"
-# Kahlenberger/mimas   ... reserved for : "ElasticSearch-Node"
-# Kahlenberger/titan   ... reserved for : "Infrastructure"
 # Kahlenberger/janus   ... reserved for : "Node"
+# Kahlenberger/tethys  ... reserved for : "Workstation-Desinfect"
+# Kahlenberger/erriapo ... reserved for : "Kali2-Desktop"
+# Kahlenberger/mimas   ... reserved for : "ElasticSearch"
+# Kahlenberger/titan   ... reserved for : "Infrastructure"
+# Kahlenberger/kali    ... reserved for : "Kali"
